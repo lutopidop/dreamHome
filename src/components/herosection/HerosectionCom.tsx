@@ -9,7 +9,6 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 
-import BgImage from "/image/back.jpg";
 import { Facebook, Instagram, Linkedin, Twitter } from "lucide-react";
 
 const HeroSection = () => {
